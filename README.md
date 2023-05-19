@@ -1,4 +1,4 @@
-# Analise-de-dados-Clientes---Python
+# Analise de dados de clientes
 
 No notebook em anexo trabalhamos com uma empresa de varejo com milhares de clientes.
 
